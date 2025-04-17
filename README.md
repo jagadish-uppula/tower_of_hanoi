@@ -16,7 +16,7 @@ An interactive Tower of Hanoi puzzle game built with Flask, HTML, CSS, and JavaS
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tower-of-hanoi.git
+   git clone https://github.com/jagadish-uppula/tower_of_hanoi.git
    cd tower-of-hanoi
 2. Install Requirements:
    ```bash
