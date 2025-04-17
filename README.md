@@ -1,6 +1,3 @@
-# tower_of_hanoi
-Interactive Tower of Hanoi game built with Flask, HTML, CSS, and JavaScript
-
 # Tower of Hanoi Game
 
 ![Game Screenshot](screenshot.png) <!-- Add screenshot later -->
