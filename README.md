@@ -21,12 +21,17 @@ An interactive Tower of Hanoi puzzle game built with Flask, HTML, CSS, and JavaS
    ```bash
    git clone https://github.com/your-username/tower-of-hanoi.git
    cd tower-of-hanoi
+2. Install Requirements:
+   ```bash
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
+4. Run the flask application:
+   ```bash
+   python app.py
 
-python app.py
-
-http://localhost:5000
+5. Open your browser to:
+   ```text
+   http://localhost:5000
 
 
 # Game Rules
