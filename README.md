@@ -1,6 +1,6 @@
 # Tower of Hanoi Game
 
-![Game Screenshot](screenshot.png) <!-- Add screenshot later -->
+![Game Screenshot](screenshot.jpg) <!-- Add screenshot later -->
 
 An interactive Tower of Hanoi puzzle game built with Flask, HTML, CSS, and JavaScript.
 
